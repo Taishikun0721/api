@@ -33,6 +33,7 @@ group :development, :test do
   gem 'pry-rails'
   gem 'better_errors'
   gem 'binding_of_caller'
+  gem 'active_model_serializers', '~> 0.10.0'
 end
 
 group :development do
